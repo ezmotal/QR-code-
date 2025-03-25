@@ -1,0 +1,48 @@
+/* Import fonts */
+body {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #f7ebe8;
+  text-align: center;
+  padding: 20px;
+  color: #444140;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #e54b4b;
+  margin-bottom: 20px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  border: 2px solid #e54b4b;
+  border-radius: 5px;
+  outline: none;
+  background-color: #ffa987;
+  font-size: 16px;
+  color: #1e1e24;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #e54b4b;
+  color: #f7ebe8;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-family: sans-serif;
+}
+
+button:hover {
+  background-color: #ffa987;
+  color: #1e1e24;
+}
